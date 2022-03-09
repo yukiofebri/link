@@ -1,0 +1,72 @@
+
+body {
+	transform: translateY(100px);
+	background: #ECEFF1;
+	font-family: 'Montserrat';
+	text-align: center;
+}
+
+.title {
+	 font-family: 'Calistoga';
+     font-size: 4em;
+     margin: 1px 0px;
+}
+
+#profile img {
+	margin: 0px auto;
+	display: block;	
+	border: solid 8px #607D8B;
+}
+
+#home p {
+	font-size: 20px;
+}
+
+#tombol a {color: #fff;}
+
+.btn-blog {
+    background: #ff8c00;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff8c00, #2f4f4f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff8c00, #2f4f4f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+}
+
+.btn-web {
+    background: #8b4513;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8b4513, #008080);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8b4513, #008080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+}
+
+.btn-ig {
+    background: #ec008c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4e54c8, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4e54c8, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+}
+
+.btn-email {
+    background: #008000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff0000, #008000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff0000, #008000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+}
+
+
+.btn-rounded {
+    border-radius: 35px;
+}
+
+.btn-fab {
+    height: 50px;
+    width: 53px;
+    border-radius: 50%;
+}
+
+hr {
+    border-top: 1px solid #000;
+}
